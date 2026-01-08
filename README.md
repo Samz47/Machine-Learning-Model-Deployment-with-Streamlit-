@@ -115,7 +115,7 @@ wine-quality-prediction/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone [<your-repository-url>](https://github.com/Samz47/Machine-Learning-Model-Deployment-with-Streamlit-.git)
+git clone https://github.com/Samz47/Machine-Learning-Model-Deployment-with-Streamlit-.git
 cd wine-quality-prediction
 ```
 
@@ -320,6 +320,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 **Note**: This project is for educational purposes. The model predictions should not be used as the sole basis for wine quality assessment in commercial applications.
+
 
 
 
