@@ -301,8 +301,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@Samz47](https://github.com/Samz47)
 
 ## 🙏 Acknowledgments
 
@@ -321,4 +320,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 **Note**: This project is for educational purposes. The model predictions should not be used as the sole basis for wine quality assessment in commercial applications.
+
 
